@@ -148,7 +148,7 @@ function Navbar() {
             ))}
             <li style={{ marginTop: 16 }}>
               <a
-                href="https://wa.me/919876543210"
+                href="https://wa.me/917505415482"
                 target="_blank"
                 rel="noreferrer"
                 onClick={() => setIsOpen(false)}

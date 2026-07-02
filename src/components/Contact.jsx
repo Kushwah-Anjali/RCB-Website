@@ -79,7 +79,7 @@ function Contact() {
 
           {/* WhatsApp order button */}
           <a
-            href="https://wa.me/919876543210"
+            href="https://wa.me/917505415482"
             target="_blank"
             rel="noreferrer"
             className="
